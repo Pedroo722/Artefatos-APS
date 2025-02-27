@@ -8,7 +8,7 @@ Este repositório contém os artefatos de um projeto de uma API de um sistema de
 
 # 📂 Estrutura do Repositório
 
-**Diagramas*: Os diagramas UML do projeto.
+**Diagramas**: Os diagramas UML do projeto.
 - *Diagrama de Classes*
 - *Diagrama de Casos de Uso*
 - *Diagrama de Sequência*

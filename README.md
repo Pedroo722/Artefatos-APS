@@ -4,7 +4,7 @@ Este repositório contém os artefatos de um projeto de uma API de um sistema de
 # 👥 Colaboradores
 - Pedro Henrique Alexandre da Rocha
 - Vinicius Cavalcante Pequeno
-- Thiago dos Santos Araújo 
+- Thiago dos Santos Araújo
 
 # 📂 Estrutura do Repositório
 
